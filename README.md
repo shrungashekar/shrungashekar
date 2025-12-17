@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate computer science student who <br>loves exploring new technologies and building creative projects
+I'm a passionate computer science student Beginner Python developer | Learning Open Source | Aspiring GSoC 2026 contributor
 
 
 ## 🌐 Socials:
